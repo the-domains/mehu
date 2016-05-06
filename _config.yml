@@ -1,6 +1,6 @@
 name: MeHu
 favicon: null
-layout_spectrum: 0.8368732915259898
+layout_spectrum: 0.92768
 typography_spectrum: 0.9953222696203738
 cta:
   domain: null
@@ -21,8 +21,8 @@ color:
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.7696262365207076
-  lightness: 0.5729618407785892
-  saturation: 0.5411832069512457
-  rhythmicContrast: 0.420516504207626
+  brandStrength: 0.625
+  lightness: 0.3125
+  saturation: 0.3125
+  rhythmicContrast: 0.75
 purpose: []
