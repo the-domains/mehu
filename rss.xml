@@ -4,8 +4,15 @@
         <description><![CDATA[MeHu]]></description>
         <link>https://thegrid.ai/mehu/</link>
         <generator>The Grid</generator>
-        <lastBuildDate>Tue, 03 May 2016 09:11:56 GMT</lastBuildDate>
+        <lastBuildDate>Fri, 06 May 2016 17:52:53 GMT</lastBuildDate>
         <atom:link href="https://thegrid.ai/mehu/rss.xml" rel="self" type="application/rss+xml"/>
+        <item>
+            <title><![CDATA[No title]]></title>
+            <description><![CDATA[<p>http://www.ti-la2016.fi/taiteilija/tehdas-mehu/</p>]]></description>
+            <link>https://thegrid.ai/mehu/httpwwwti-la2016fitaiteilijatehdas-mehu/index.html</link>
+            <guid isPermaLink="false">0adaf2c0-e7ed-4fa4-b492-7a91d23b696e</guid>
+            <pubDate>Fri, 06 May 2016 17:52:32 GMT</pubDate>
+        </item>
         <item>
             <title><![CDATA[octahedron teaser]]></title>
             <description><![CDATA[<article><h1>octahedron teaser</h1><p>Octahedron teaser</p><img src="https://s3-us-west-2.amazonaws.com/the-grid-img/p/7c453d808c7d3939dca56c060114e4bc85159322.jpg"></article>]]></description>
