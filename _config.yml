@@ -1,29 +1,41 @@
-name: MeHu
-favicon: null
-layout_spectrum: 0.92768
-typography_spectrum: 0.371
 title: Median Huippuosaamisyksikkö
-cta:
-  domain: null
-  bucket: null
-  version: null
-analytics:
-  google: null
-  facebook: null
-  twitter: null
-opengraph:
-  image: null
-  type: null
-  appId: null
+purpose: []
+collections:
+  - index:
+      path: /
+      number: 15
+      paginate: true
+      navigable: true
+    permalink:
+      path: '/:title/'
+    feed:
+      path: /rss.xml
+      format: rss
+      number: 10
 color:
+  saturation: 0.1923559
+  brandStrength: 0.625
+  lightness: 0.7926065
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  brandStrength: 0.625
-  lightness: 0.3125
-  saturation: 0.3125
-  rhythmicContrast: 0.75
-purpose: []
+  rhythmicContrast: 1
+cta:
+  bucket: null
+  version: null
+  domain: null
+analytics:
+  twitter: null
+  google: null
+  facebook: null
+favicon: null
+name: MeHu
+opengraph:
+  image: null
+  type: null
+  appId: null
+typography_spectrum: 0.371
+layout_spectrum: 0.2337093
