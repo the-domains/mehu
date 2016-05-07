@@ -15,14 +15,14 @@ collections:
 color:
   saturation: 0.1923559
   brandStrength: 0.625
-  lightness: 0.7926065
+  lightness: 0.4943609
   brandColors:
     - '#FF6700'
     - '#EBEBEB'
     - '#C0C0C0'
     - '#3A6EA5'
     - '#004E98'
-  rhythmicContrast: 1
+  rhythmicContrast: 0.3590226
 cta:
   bucket: null
   version: null
@@ -31,11 +31,11 @@ analytics:
   twitter: null
   google: null
   facebook: null
-favicon: null
 name: MeHu
+favicon: null
 opengraph:
   image: null
   type: null
   appId: null
-typography_spectrum: 0.371
-layout_spectrum: 0.2337093
+typography_spectrum: 0.3590226
+layout_spectrum: 0.4473684
